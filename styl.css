@@ -1,0 +1,77 @@
+*
+{
+    font-family: Georgia;
+    margin: 0;
+}
+
+#baner 
+{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+    height: 20px;
+}
+
+#główny
+{
+    background-color: #E1E2E1;
+    height: 400px;
+    padding: 20px;
+    overflow: scroll;
+}
+
+#zdjęcie
+{
+    width: 20%;
+    float: left;
+}
+
+#opis
+{
+    text-align: left;
+    float: left;
+    margin-left: -220px;
+}
+
+#stopka1 
+{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    width: 50%;
+    height: 20px;
+    float: left;
+}
+
+#stopka2 
+{
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    width: 50%;
+    height: 20px;
+    float: left;
+}
+
+a
+{
+    color: white;
+}
+
+h2
+{
+    text-align: center;
+    background-color: #00897B;
+}
+
+#linia
+{
+    clear: both;
+}
+
+img
+{
+    padding: 20px;
+    border-radius: 100%;
+}
